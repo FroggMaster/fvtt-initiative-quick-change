@@ -1,5 +1,5 @@
 {
-  "name": "initiative-quick-change",
+  "id": "initiative-quick-change",
   "title": "Initiative Quick Change",
   "description": "Click the initiative value in the combat tracker to quickly modify it.",
   "author": "FrogMaster",
